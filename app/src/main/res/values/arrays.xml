@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="information_types">information_types>
+        <item>code</item>
+        <item>rate</item>
+        <item>description</item>
+        <item>rate_float</item>
+        <item>all</item>
+    </string-array>
+</resources>
